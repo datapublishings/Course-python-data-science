@@ -15,7 +15,7 @@ def printMe(msg='No message was supplied'):
 
 def printList(L=[]):
     """ This function prints the list elements
-        The input is a list and defult is empty list"""
+        The input is a list and default is empty list"""
     for x in L:
         print(x)
 
